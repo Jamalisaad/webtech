@@ -1,0 +1,35 @@
+.Container{
+  color:rgb(255, 255, 255);
+  padding-top: 20px ;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: dodgerblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  
+}
+.sub-heading{
+  background-color: brown;
+  padding-top:20px;
+  padding-bottom: 20px;
+  text-align: center;
+  /* height: 10px;
+  width: 100%; */
+  color: rgb(245, 241, 248);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  border: 1px solid black;
+
+
+}
+.Main{
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: deeppink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  border: 1px solid black;
+
+}
